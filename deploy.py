@@ -1,3 +1,4 @@
 #deploying a python web application
 echo "Hello world"
-#shell script
+#shell scrip
+deploy in the dev enu

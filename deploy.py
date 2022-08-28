@@ -6,3 +6,5 @@ depoyment 5 master
 deploy in the dev enu
 deployment4
 deploy to staging env
+echo good job
+tested and accepted
